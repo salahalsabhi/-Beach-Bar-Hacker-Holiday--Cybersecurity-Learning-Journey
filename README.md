@@ -1,6 +1,6 @@
 # Beach-Bar-Hacker-Holiday--Cybersecurity-Learning-Journey
 
-# TryHackMe
+# Professional TryHackMe Beach Bar write-up covering YAML deserialization, Python object injection, RCE, Linux enumeration, credential discovery, and privilege escalation.
 
 > A practical walkthrough covering **YAML deserialization, Python object injection, command execution, credential discovery, and Linux privilege escalation**.
 
